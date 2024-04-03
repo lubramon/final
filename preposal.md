@@ -2,12 +2,14 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Cookie clicker game
+Snake game 
+A similar game to googles Trex game 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Jaisy Thomas
 
 ## Do you have any questions of your own?
 
-TODO
+Not right now
